@@ -1,7 +1,11 @@
 
 # Angular ios9 ui webview patch
 
+##### Just install it via Bower
 
+```
+bower install angular_ios9_patch --save
+```
 
  This patch works around iOS9 UIWebView regression that causes infinite digest
  errors in Angular.
@@ -29,6 +33,7 @@
  - https://openradar.appspot.com/22186109
  - https://github.com/angular/angular.js/issues/12241
  - https://github.com/driftyco/ionic/issues/4082
+ - This plugin it's not mine, i just registered it to bower for easy instalation
 
 
  @license AngularJS

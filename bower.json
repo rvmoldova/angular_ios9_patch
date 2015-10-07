@@ -1,0 +1,27 @@
+{
+  "name": "angular_ios9_patch",
+  "version": "1.0.0",
+  "authors": [
+    "Vadimovich <rvmoldovan@gmail.com>"
+  ],
+  "description": "This patch works around iOS9 UIWebView regression that causes infinite digest errors in Angular.",
+  "main": "angular-ios9-uiwebview.patch.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "ios9",
+    "cordova",
+    "ionic"
+  ],
+  "license": "MIT",
+  "homepage": "rvmd.tk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
